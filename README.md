@@ -1,4 +1,4 @@
-**New!** The tool can now handle duplicate columns and much more unstructured data.  Making logical decisions and giving the user full authority if they want to modify as needed. So in scenarios when there is some anomaly, the tool will give an option if the user wants to determine what happens (duplicate column, unnecessary column, no sample data, irregular sample data, etc ). I relevant tutorial will be uploaded and the link will be provided soon!
+**New!** The tool can now handle duplicate columns and much more unstructured data.  Making logical decisions and giving the user full authority if they want to modify as needed. So in scenarios when there is some anomaly, the tool will give an option if the user wants to determine what happens (duplicate column, unnecessary column, no sample data, irregular sample data, etc ). Relevant tutorial will be uploaded and the link will be provided soon!
 
 
 cBioPortal needs our data in a certain format with metadata information to be eligible to be uploaded.  We can use the script in the following path to make the necessary modifications and metadata. 
